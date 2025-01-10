@@ -1,3 +1,3 @@
-# student-form
-this was my first project which i just built by using only  html
+# student-learning
+this was my first repo in github 
 name sadiq khan 
